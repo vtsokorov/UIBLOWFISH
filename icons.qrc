@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/add.png</file>
+        <file>icon/minus.png</file>
+        <file>icon/play.png</file>
+        <file>icon/blowFish.png</file>
+        <file>icon/go.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/folderAdd.png</file>
+    </qresource>
+</RCC>
